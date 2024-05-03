@@ -12,6 +12,12 @@ public class SimpleOperations{
 		return number > 0;
 	}
 	
+	public boolean isEven(int number)
+	{
+		if(number % 2 == 0)
+		return true;
+		return false;
+	}
 	public String getEmptyString()
 	{
 		return null;
