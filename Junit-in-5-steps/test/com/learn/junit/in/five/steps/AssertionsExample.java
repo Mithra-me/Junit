@@ -2,8 +2,6 @@ package com.learn.junit.in.five.steps;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.lang.ref.Reference;
-
 import org.junit.jupiter.api.Test;
 
 class AssertionsExample {
